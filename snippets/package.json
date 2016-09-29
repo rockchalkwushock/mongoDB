@@ -1,0 +1,23 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snippets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node snippets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockchalkwushock/mongoDB.git"
+  },
+  "author": "Cody Brunner <rockchalkwushock@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockchalkwushock/mongoDB/issues"
+  },
+  "homepage": "https://github.com/rockchalkwushock/mongoDB#readme",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  }
+}
